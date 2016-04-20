@@ -1,6 +1,6 @@
 {
   "name": "flake-idgen-63",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "63-Bit Flake ID generator yields k-ordered, conflict-free ids in a distributed environment.",
   "main": "index.js",
   "scripts": {
